@@ -1,0 +1,3 @@
+//Find minimum and maximum element in an array
+#include<bits/stdc++.h>
+using namespace std;
